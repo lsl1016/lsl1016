@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm  LiShiLong , a Master's student from Hangzhou Dianzi University (HDU), My research direction focus on **Vehicular Networks**, **Fog Computing**, **Resource Scheduling**, and **Convex Optimization**. 
+I'm  LiShiLong , a student from Hangzhou Dianzi University (HDU), I am working towards my Master's degree, My research direction focus on **Vehicular Networks**, **Fog Computing**, **Resource Scheduling**, and **Convex Optimization**. 
 
 ## 🌟 Research Interests
 
